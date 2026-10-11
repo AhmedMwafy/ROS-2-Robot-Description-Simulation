@@ -1,0 +1,18 @@
+
+# VS Code generated data
+.vscode/*.db
+.vscode/*.db-shm
+.vscode/*.db-wal
+
+# ROS 2 generated files
+build/
+install/
+log/
+
+# VS Code generated files anywhere in the repository
+**/.vscode/
+
+# ROS 2 generated workspace files
+**/build/
+**/install/
+**/log/

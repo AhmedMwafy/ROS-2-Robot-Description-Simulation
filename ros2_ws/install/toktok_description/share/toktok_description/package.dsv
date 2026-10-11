@@ -1,0 +1,8 @@
+source;share/toktok_description/hook/cmake_prefix_path.ps1
+source;share/toktok_description/hook/cmake_prefix_path.dsv
+source;share/toktok_description/hook/cmake_prefix_path.sh
+source;share/toktok_description/local_setup.bash
+source;share/toktok_description/local_setup.dsv
+source;share/toktok_description/local_setup.ps1
+source;share/toktok_description/local_setup.sh
+source;share/toktok_description/local_setup.zsh
