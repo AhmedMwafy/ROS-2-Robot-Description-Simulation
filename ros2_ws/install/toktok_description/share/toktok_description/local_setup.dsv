@@ -1,2 +1,1 @@
-source;share/toktok_description/environment/ament_prefix_path.sh
-source;share/toktok_description/environment/path.sh
+/home/ahmed/ROS-2-Robot-Description-Simulation/ros2_ws/build/toktok_description/ament_cmake_environment_hooks/local_setup.dsv
