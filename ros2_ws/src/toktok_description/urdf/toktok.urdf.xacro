@@ -2,4 +2,5 @@
 <robot name="toktok" xmlns:xacro="http://www.ros.org/wiki/xacro">
     <xacro:include filename="properties.xacro"/>
     <xacro:include filename="mobile_base.xacro"/>
+    <xacro:include filename="mobile_base_gazebo.xacro" />
 </robot>
